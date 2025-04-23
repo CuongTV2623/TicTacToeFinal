@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1745294549 source:d:\codeblock\tictec\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"logic.h"
+	"menu.h"
+
+1745419264 d:\codeblock\tictec\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"logic.h"
+
+1745291815 d:\codeblock\tictec\defs.h
+
+1745294365 d:\codeblock\tictec\logic.h
+
+1745249660 source:d:\codeblock\tictec\graphics.cpp
+	"graphics.h"
+
+1745294632 d:\codeblock\tictec\menu.h
+	<SDL.h>
+	"graphics.h"
+
